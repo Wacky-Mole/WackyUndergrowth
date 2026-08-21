@@ -1,0 +1,9 @@
+{
+  "name": "WackyUndergrowth",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "description": "Grow all your plants underground!",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2202"
+  ]
+}
